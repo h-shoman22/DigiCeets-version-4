@@ -21,3 +21,6 @@ Although not explicitly mentioned in the code provided, the app may include auth
 Overall, DigiCeets aims to streamline text recognition tasks, enhance file management capabilities, and provide users with flexibility in customizing app settings according to their preferences.
 
 V4 included more features available and more accuracy to the Text recognition and the OCR.
+
+please download the file as it is a .RAR File and will need to download and extract the code on
+a visual studio code or any program that you can compile it on.
